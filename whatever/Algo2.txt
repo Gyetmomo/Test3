@@ -1,0 +1,8 @@
+1. Ask user to input number
+
+2. Read input for an integer. 
+   if input is a character or string repeat step 1.
+
+3. Divide the number by 2
+     if number is a float that ends by 5 print odd number and STOP
+       else print even number and STOP
